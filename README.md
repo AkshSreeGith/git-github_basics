@@ -1,1 +1,1 @@
-# git-github_basics
+# Git and github basics by Piyush Garg
