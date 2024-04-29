@@ -1,0 +1,21 @@
+Important git commands 
+#git comm
+
+# git add 
+git add "filename" // add a certain file to the staging area 
+git add . // add every file to the staging area 
+
+# git remove
+git rm "filename" // us
+git rm --cached "filename"
+
+# git commit 
+git commit 
+git commit -m "message"
+
+# Log commands
+git log 
+git log --oneline  // used to view the commit log in a small and concised way along with its SHA-256 hash 
+
+#git blame 
+git blame "filepath"  // you can see which person/teamate has written the particular piece of code and by that you can blame that particular person
